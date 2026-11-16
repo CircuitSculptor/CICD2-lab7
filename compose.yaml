@@ -11,4 +11,4 @@ services:
     - rabbitmq_data:/var/lib/rabbitmq
 
 volumes:
- rabbitmq_data:
+  rabbitmq_data:
